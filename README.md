@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/esdras-pedro-33821122b/">
+  <a href="https://www.linkedin.com/in/esdraspedro/">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.9.0/icons/linkedin.svg" alt="EsdrasPedro" height="35" width="35"/>
   </a>
 </p>
